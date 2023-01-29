@@ -7,6 +7,7 @@
 [![Github](https://img.shields.io/badge/Github-violet?style=for-the-badge&logo=Github&logoColor=black)](https://github.com/Freakyab)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AryanBhisikar)
 
+
 HELLO, I am Aryan.. studing in Computer Engineering.
 
 ## What I know....
@@ -20,7 +21,18 @@ HELLO, I am Aryan.. studing in Computer Engineering.
 ![Node js](https://img.shields.io/badge/Nodejs-%20-green?style=social&logo=NodeJs)
 ![Mongo DB](https://img.shields.io/badge/Mongodb-%20-green?style=social&logo=Mongodb)
 ![Github](https://img.shields.io/badge/Github-%20-green?style=social&logo=Github)
-  
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Freakyab&theme=radical&show_icons=true)
+ ## Follow
+[![Github](https://img.shields.io/github/followers/Freakyab?label=Follow&style=social)](https://github.com/Freakyab)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freakyab&theme=radical&show_icons=true)
+## Repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Freakyab&repo=MonoDB&theme=dracula)](https://github.com/Freakyab/MonoDB)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Freakyab&repo=folio&theme=dracula)](https://github.com/Freakyab/folio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Freakyab&repo=Dgclock&theme=dracula)](https://github.com/Freakyab/Dgclock)
+
+### 📈 GitHub stats
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Freakyab&theme=dracula"/></p>
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Freakyab&theme=dracula&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freakyab&theme=dracula&show_icons=true)
