@@ -22,5 +22,5 @@ HELLO, I am Aryan.. studing in Computer Engineering.
 ![Github](https://img.shields.io/badge/Github-%20-green?style=social&logo=Github)
 
 ## Github Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=Freakyab&&show_icons=true&title_color=808080&icon_color=808080&text_color=a8a8a8&bg_color=151515">
+  <img src="https://github-readme-stats.vercel.app/api?username=Freakyab&&show_icons=true&title_color=808080&icon_color=808080&text_color=a8a8a8&bg_color=151515&theme=dracula">
   
