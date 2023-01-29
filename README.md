@@ -21,6 +21,6 @@ HELLO, I am Aryan.. studing in Computer Engineering.
 ![Mongo DB](https://img.shields.io/badge/Mongodb-%20-green?style=social&logo=Mongodb)
 ![Github](https://img.shields.io/badge/Github-%20-green?style=social&logo=Github)
   
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Freakyab&theme=dark&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Freakyab&theme=radical&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freakyab&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freakyab&theme=radical&show_icons=true)
