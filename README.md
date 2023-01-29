@@ -20,8 +20,7 @@ HELLO, I am Aryan.. studing in Computer Engineering.
 ![Node js](https://img.shields.io/badge/Nodejs-%20-green?style=social&logo=NodeJs)
 ![Mongo DB](https://img.shields.io/badge/Mongodb-%20-green?style=social&logo=Mongodb)
 ![Github](https://img.shields.io/badge/Github-%20-green?style=social&logo=Github)
-<!-- 
-## Github Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=Freakyab&&show_icons=true&title_color=808080&icon_color=808080&text_color=a8a8a8&bg_color=151515&theme=dracula"> -->
   
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Freakyab&theme=dark&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freakyab&theme=dark&show_icons=true)
