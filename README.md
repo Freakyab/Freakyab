@@ -1,5 +1,5 @@
 ### Hi I am ARYAN BHISIKAR
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+   <img src="https://media.giphy.com/media/cFlrCthixcb3B6hqwY/giphy.gif" width="300"/>
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aryan_bhisikar/?hl=en)
