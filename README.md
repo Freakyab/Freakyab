@@ -36,3 +36,5 @@ HELLO, I am Aryan.. studing in Computer Engineering.
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Freakyab&theme=dracula&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freakyab&theme=dracula&show_icons=true)
+
+[![An image of @freakyab's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/freakyab)](https://holopin.io/@freakyab)
