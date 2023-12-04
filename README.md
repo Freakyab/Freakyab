@@ -3,11 +3,11 @@
 
 ### Connect with Me:
 [![Webfolio](https://img.shields.io/badge/Webfolio-brown?style=for-the-badge&logo=microsoftedge&logoColor=white)](https://aryanbhisikar.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aryan_bhisikar/?hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aryan-bhisikar-843512261/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:aryanbhisikar1@gmail.com)
 [![Github](https://img.shields.io/badge/Github-violet?style=for-the-badge&logo=Github&logoColor=black)](https://github.com/Freakyab)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AryanBhisikar)
-
+[![Twitter](https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/AryanBhisikar)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aryan_bhisikar/?hl=en)
 ---
 
 ## About Me
